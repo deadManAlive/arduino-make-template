@@ -1,0 +1,6 @@
+Arduino Makefile Template
+-------------------------
+
+- In case you despise GUI.
+- Depends on `arduino-cli`.
+- `arduino-cli.yaml` makes this project independent to global Arduino data (board, libs, etc.). Delete if you want otherwise.
